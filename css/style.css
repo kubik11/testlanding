@@ -38,12 +38,10 @@ body{
 	opacity: 1;
 }
 .container{
-	width: 1178px;
 	max-width: 1178px;
 	position: relative;
 	margin: 0 auto;
 	}
 .container p {
-	width: 100%;
 	padding: 0px 30px;
 }
